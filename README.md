@@ -1,80 +1,56 @@
-# 🌐 ARNIXA — Next‑Generation Experimental Language & Runtime
+ ARNIX — Classified Research Environment
 
-ARNIXA is an experimental programming environment designed and developed by **Abboud-ARNIX**.  
-The project aims to explore new ideas in language design, runtime behavior, and developer experience.
+ARNIX is part of an ongoing internal investigation into unconventional computational models and non‑standard execution behavior.
+Only a limited portion of the project is made publicly visible.
+Core mechanisms, design principles, and experimental results remain restricted.
+⚙️ Overview (Public Extract)
 
-This repository represents the **first official public release** of ARNIXA.
+The visible components of ARNIXA represent a controlled subset of a larger system.
+This repository functions as an isolated environment for testing surface‑level behaviors related to:
 
----
+    anomalous runtime responses
 
-## 🚀 Vision
+    structural pattern evaluation
 
-ARNIXA is not just a script or a file — it is the foundation of a future language/runtime that focuses on:
+    modular execution layering
 
-- ⚡ سرعة التطوير  
-- 🧠 بساطة الفهم  
-- 🧩 قابلية التوسّع  
-- 🔧 سهولة التجربة والتعديل  
-- 🛠️ بيئة مرنة للمبرمجين الجدد والمحترفين  
+    abstract interpretation pathways
 
-The long‑term vision is to evolve ARNIXA into a modular, expressive, and developer‑friendly system.
+No further architectural details are disclosed at this stage.
+🚧 Development Status
 
----
+The project is under active internal development.
+Public-facing files may change, appear, or disappear without prior notice.
+Several modules are intentionally omitted or redacted.
 
-## 📁 Project Structure
+Documentation will be expanded only when specific components are cleared for release.
+🧪 Accessing the Public Sandbox
 
-Current files:
-
-- **test.py**  
-  First experimental script used to validate the environment and test early ideas.
-
-More modules and components will be added as the project grows.
-
----
-
-## 🛠️ Getting Started
-
-Clone the repository:
-
-```bash
+Clone the visible portion of the repository:
+bash
 git clone https://github.com/Abboud-ARNIX/ARNIXA.git
-Navigate into the project:
 
-```bash
+Enter the environment:
+bash
 cd ARNIXA
-Run the initial test file:
 
-```bash
+Execute the exposed test file:
+bash
 python3 test.py
----
 
-## 🧩 Roadmap (Planned)
+Note: This does not reflect the behavior of the full system.
+📌 Notice
 
-- 🟦 Core syntax design  
-- 🟦 Interpreter prototype  
-- 🟦 Standard library structure  
-- 🟦 Package manager concept  
-- 🟦 Documentation system  
-- 🟦 CLI tool for ARNIXA  
-- 🟦 First stable release (v1.0)
+This repository does not represent the complete project.
+Most internal logic, research notes, and experimental subsystems are stored in private environments and are not accessible through this interface.
 
----
+Any assumptions about the project’s purpose or direction based on the public files are incomplete by design.
+👤 Maintainer
 
-## 👑 Author
+Primary developer and project lead: Abboud‑ARNIX
+📄 License
 
-**Abboud-ARNIX**  
-Founder & Lead Developer of ARNIXA.
+MIT License (applies only to the public subset).
+🛠️ Communication
 
----
-
-## 📜 License
-
-This project will include a license in future releases.
-
----
-
-## ⭐ Support the Project
-
-If you like the direction of ARNIXA, feel free to star the repository and follow the development journey.
-
-
+General issues may be submitted, but detailed technical discussions will not be addressed until additional components are declassified.
